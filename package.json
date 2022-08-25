@@ -1,0 +1,19 @@
+{
+  "name": "studytypescript",
+  "version": "1.0.0",
+  "description": "Estas son algunas pautas vistas en Typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikigox/studyTypescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hikigox/studyTypescript/issues"
+  },
+  "homepage": "https://github.com/hikigox/studyTypescript#readme"
+}
